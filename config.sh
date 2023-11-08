@@ -1,0 +1,3 @@
+LT_SERVER_ADDRESS=https://bluepeak.hostedrmm.com
+LT_SYSTEM_PASSWORD=jFq/6riPVCZXl3z1RJ4b7oQy/11Xa0MW
+LT_LOCATION_ID=39
