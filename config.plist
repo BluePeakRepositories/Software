@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LT_SERVER_ADDRESS</key>
+	<string>https://bluepeak.hostedrmm.com</string>
+	<key>LT_SYSTEM_PASSWORD</key>
+	<string>jFq/6riPVCZXl3z1RJ4b7oQy/11Xa0MW</string>
+	<key>LT_LOCATION_ID</key>
+	<string>39</string>
+	<key>InstallMenubar</key>
+        <true/>
+</dict>
+</plist>
